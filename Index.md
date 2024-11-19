@@ -2,7 +2,7 @@
 ## Priyang Siddhpaura
 
 ## Image
-![MY IMAGE](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
+![MY IMAGE]([https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg](https://pixabay.com/photos/software-developer-web-developer-6521720/))
 
 ## About Me
 A dedicated and enthuaastic B-Tech Computer Science student at MNIT JAIPUR
