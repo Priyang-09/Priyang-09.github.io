@@ -1,7 +1,8 @@
 # Welcome to my portfolio
 ## Priyang Siddhpaura
 
-
+## Image
+![MY IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Red_Scinde_Dawk_stamp.jpg/200px-Red_Scinde_Dawk_stamp.jpg)
 
 ## About Me
 A dedicated and enthuaastic B-Tech Computer Science student at MNIT JAIPUR
